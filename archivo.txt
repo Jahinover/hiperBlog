@@ -1,7 +1,3 @@
 hola este es un archivo de practica para GIT
 
-esta es una modificacion al archivo
-
-cambio final para este archivo....deveras
-
-este si es el final ahora si
+volvi a mi version anterior
